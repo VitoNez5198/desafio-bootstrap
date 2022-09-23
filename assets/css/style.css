@@ -1,0 +1,28 @@
+.logo_1{
+    height: 50px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.descuento{
+    font-size: 25px;
+}
+
+h5{
+    font-weight: 500;
+}
+
+footer{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    display: block;
+    }
+
+.logo-black{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
